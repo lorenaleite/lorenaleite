@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/lorenaleite/lorenaleite/blob/master/Banner.jpg">
+<img src="https://github.com/lorenaleite/lorenaleite/blob/master/gif.mp4">
 </p>
 
 # Sobre mim
