@@ -12,6 +12,11 @@ Graduação em Engenharia de Produção Industrial (CEFET/RJ) - MBA em Gestão d
 
 Background in: Supply Chain, Suprimentos, Compras, Data Science, Python e Marketing Digital.
 
+### Projetos:
+
+* Analisado aluguéis na cidade de New York com Airbnb: https://bit.ly/3feDjDz
+* Gerando uma *Wordcloud*: https://bit.ly/2CpEu4v
+
 ### Meus Contatos
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lorenaleite)](https://github.com/lorenaleite)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lorenaleite//)](https://www.linkedin.com/in/lorenaleite/)
